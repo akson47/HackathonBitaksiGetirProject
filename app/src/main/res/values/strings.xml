@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HackathonBitaksiGetirProject</string>
+    <string name="name">Ad Soyad</string>
+    <string name="email">E-Posta Adresi</string>
+    <string name="phone">Cep Telefonu (05XX XXX XXXX)</string>
+    <string name="get_Figure">Getir</string>
+    <string name="nameValitadionError">Lütfen Ad ve Soyad giriniz</string>
+    <string name="emailValitadionError">Lütfen  E-Posta Adresinizi  giriniz</string>
+    <string name="phoneValitadionError">Lütfen 11 haneli  Telefon Numaranızı giriniz</string>
+
+</resources>
