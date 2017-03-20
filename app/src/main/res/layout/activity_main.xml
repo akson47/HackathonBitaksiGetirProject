@@ -146,7 +146,8 @@
                         android:background="@null"
                         android:ems="10"
                         android:hint="@string/phone"
-                        android:inputType="phone"
+                        android:inputType="number"
+                        android:maxLength="11"
                         android:padding="4dp"
                         android:textColorHint="@color/colorHint"
                         android:textSize="13sp" />
